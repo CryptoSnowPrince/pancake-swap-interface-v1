@@ -1,1 +1,1 @@
-# 🥞 Pancake Swap Exchange on BSC Testnet with left navbar
+# 🥞 Pancake Swap Interface v1 with left navbar
